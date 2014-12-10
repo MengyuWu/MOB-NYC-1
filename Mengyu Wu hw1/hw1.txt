@@ -1,0 +1,13 @@
+HW1
+how to show keyboard type on simulator
+command k
+
+place holder: background word
+
+
+editor: navigation controller
+embed in ?
+
+button, or Bar Button Item
+
+image: just drag into, but how to modify the size to the orignial scale
